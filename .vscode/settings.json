@@ -1,0 +1,19 @@
+{
+    "files.defaultLanguage": "powershell",
+    "editor.wordWrap": "on",
+    "files.exclude": {
+        ".editorconfig": true,
+        ".git*": true,
+        ".vscode": true,
+        "*.pdf": true,
+        "CHANGELOG.txt": true,
+        "COPYING.Lesser": true,
+        "docs": true,
+        "Examples": true,
+        "LICENSE": true,
+        "README.*": true,
+        "TODO.txt": true,
+        "wiki": true
+    },
+    "workbench.colorTheme": "Monokai"
+}
