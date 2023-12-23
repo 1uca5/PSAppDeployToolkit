@@ -3,17 +3,22 @@
     "editor.wordWrap": "on",
     "files.exclude": {
         ".editorconfig": true,
+        ".exe": true,
+        ".msi": true,
         ".git*": true,
         ".vscode": true,
-        "*.pdf": true,
+        ".pdf": true,
         "CHANGELOG.txt": true,
         "COPYING.Lesser": true,
         "docs": true,
         "Examples": true,
         "LICENSE": true,
         "README.*": true,
-        "TODO.txt": true,
-        "wiki": true
+        "Sources": true,
+        "Testing": true,
+        "wiki": true,
+        "material": true,
+        "PSAppDeployToolkit.pdf": true
     },
     "workbench.colorTheme": "Monokai",
     "terminal.integrated.defaultProfile.windows": "PowerShell"
